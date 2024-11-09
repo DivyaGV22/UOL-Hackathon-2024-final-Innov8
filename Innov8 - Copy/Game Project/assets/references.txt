@@ -1,0 +1,13 @@
+Music referencing (under assets folder):
+Download Free Game Sound effects. Mixkit. (n.d.). https://mixkit.co/free-sound-effects/game/ 
+failSound: Mixkit. (n.d.). Player losing or failing. Mixkit. Retrieved from https://mixkit.co/free-sound-effects/game/
+jumpSound: Mixkit. (n.d.). Retro arcade casino notification. Mixkit. Retrieved from https://mixkit.co/free-sound-effects/game/
+enemySound: Mixkit. (n.d.). Video game bomb alert. Mixkit. Retrieved from https://mixkit.co/free-sound-effects/game/
+collectSound: Mixkit. (n.d.). Winning a coin, video game. Mixkit. Retrieved from https://mixkit.co/free-sound-effects/game/
+trySound: Mixkit. (n.d.). Video game win. Mixkit. Retrieved from https://mixkit.co/free-sound-effects/game/
+winSound: Mixkit. (n.d.). Medieval show fanfare announcement. Mixkit. Retrieved from https://mixkit.co/free-sound-effects/game/
+fallSound: Mixkit. (n.d.). Lose life falling. Mixkit. Retrieved from https://mixkit.co/free-sound-effects/game/
+
+backgroundSound: A hero of the 80s | royalty-free music - pixabay. (n.d.). https://pixabay.com/music/synthwave-a-hero-of-the-80s-126684/ 
+
+
